@@ -1,6 +1,6 @@
 {
-    "name": "Indigo Insights",
-    "short_name": "Indigo Insights",
+    "name": "indigo_status",
+    "short_name": "indigo_status",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
